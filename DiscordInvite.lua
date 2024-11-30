@@ -5,7 +5,7 @@ local CoreGui = game:GetService("CoreGui")
 
 -- Variables
 local vynixuModules = {
-	Functions = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Functions.lua"))()
+	Functions = loadstring(game:HttpGet("https://raw.githubusercontent.com/Snxdfer/RegularVynixu/refs/heads/main/functions.lua"))()
 }
 local assets = {
     DiscordInvitePrompt = LoadCustomInstance("https://github.com/Snxdfer/RegularVynixu/raw/blob/main/DiscordInvitePrompt.rbxm"),
